@@ -1,5 +1,6 @@
 Backend - Event Scraper API 🛠️
 Features
+
 ✅ Scrapes event details (title, date, location, description).
 ✅ Stores data in a database (PostgreSQL/MySQL/MongoDB).
 ✅ Provides RESTful API for event access.
