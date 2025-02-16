@@ -13,6 +13,7 @@ Celery + Redis (for background tasks)
 
 
 Setup Instructions
+
 1️⃣ Clone the Repository
 git clone https://github.com/yourusername/event-scraper-backend.git
 cd event-scraper-backend
